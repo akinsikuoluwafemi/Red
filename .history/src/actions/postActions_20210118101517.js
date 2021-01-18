@@ -1,0 +1,1 @@
+import { FETCH_POSTS, new} from './types';
